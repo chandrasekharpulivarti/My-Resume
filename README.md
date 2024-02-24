@@ -1,2 +1,2 @@
 # My-Resume
-This is my first capstone project I did using html.. Lot more to learn in this journey 
+This is my first capstone project using HTML.. Lot more to learn in this journey 
